@@ -60,7 +60,7 @@ The project requires the following dependencies:
 
 ## Usage
 
-1. Clone the repository: `[git clone https://github.com/your-username/knowledge-graph-social-media.git](https://github.com/itsmohitnamdeo/HP-Solve.git)`
+1. Clone the repository: [git clone https://github.com/your-username/knowledge-graph-social-media.git](https://github.com/itsmohitnamdeo/HP-Solve.git)
 2. Navigate to the project directory: `cd knowledge-graph-social-media`
 3. Run the `crawl_social_media.py` script to collect social media posts.
 4. Run the `classify_posts.py` script to categorize the collected posts.
