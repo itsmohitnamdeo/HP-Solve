@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="node" attr.name="sentiment_score" attr.type="long"/>
+<key id="d2" for="node" attr.name="sentiment" attr.type="string"/>
+<key id="d1" for="node" attr.name="content" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="123456789">
+  <data key="d0">post</data>
+  <data key="d1">Just bought a new HP laptop. Loving the sleek design and fast performance!</data>
+</node>
+<node id="sentiment_123456789">
+  <data key="d0">sentiment</data>
+  <data key="d2">positive</data>
+  <data key="d3">1</data>
+</node>
+<node id="987654321">
+  <data key="d0">post</data>
+  <data key="d1">Looking for recommendations on HP printers. Any suggestions?</data>
+</node>
+<node id="sentiment_987654321">
+  <data key="d0">sentiment</data>
+  <data key="d2">neutral</data>
+  <data key="d3">0</data>
+</node>
+<node id="456789123">
+  <data key="d0">post</data>
+  <data key="d1">Having trouble with my HP printer. It keeps jamming the paper.</data>
+</node>
+<node id="sentiment_456789123">
+  <data key="d0">sentiment</data>
+  <data key="d2">neutral</data>
+  <data key="d3">0</data>
+</node>
+<node id="789123456">
+  <data key="d0">post</data>
+  <data key="d1">Just reviewed the latest HP printer model. It's packed with great features!</data>
+</node>
+<node id="sentiment_789123456">
+  <data key="d0">sentiment</data>
+  <data key="d2">neutral</data>
+  <data key="d3">0</data>
+</node>
+<node id="321654987">
+  <data key="d0">post</data>
+  <data key="d1">Can't get enough of my new HP printer. Prints photos with amazing quality!</data>
+</node>
+<node id="sentiment_321654987">
+  <data key="d0">sentiment</data>
+  <data key="d2">neutral</data>
+  <data key="d3">0</data>
+</node>
+<node id="654987321">
+  <data key="d0">post</data>
+  <data key="d1">Need help troubleshooting my HP printer. It's not connecting to my computer.</data>
+</node>
+<node id="sentiment_654987321">
+  <data key="d0">sentiment</data>
+  <data key="d2">neutral</data>
+  <data key="d3">0</data>
+</node>
+<node id="987321654">
+  <data key="d0">post</data>
+  <data key="d1">Here are some useful tips to maintain your HP printer for optimal performance.</data>
+</node>
+<node id="sentiment_987321654">
+  <data key="d0">sentiment</data>
+  <data key="d2">neutral</data>
+  <data key="d3">0</data>
+</node>
+<node id="159753852">
+  <data key="d0">post</data>
+  <data key="d1">My HP printer broke down again! So tired of dealing with these issues.</data>
+</node>
+<node id="sentiment_159753852">
+  <data key="d0">sentiment</data>
+  <data key="d2">neutral</data>
+  <data key="d3">0</data>
+</node>
+<node id="852963741">
+  <data key="d0">post</data>
+  <data key="d1">Just bought an HP printer for my home office. Excited to start using it!</data>
+</node>
+<node id="sentiment_852963741">
+  <data key="d0">sentiment</data>
+  <data key="d2">neutral</data>
+  <data key="d3">0</data>
+</node>
+<node id="369852147">
+  <data key="d0">post</data>
+  <data key="d1">Does anyone know where I can find compatible ink cartridges for my HP printer?</data>
+</node>
+<node id="sentiment_369852147">
+  <data key="d0">sentiment</data>
+  <data key="d2">neutral</data>
+  <data key="d3">0</data>
+</node>
+<edge source="123456789" target="sentiment_123456789"/>
+<edge source="987654321" target="sentiment_987654321"/>
+<edge source="456789123" target="sentiment_456789123"/>
+<edge source="789123456" target="sentiment_789123456"/>
+<edge source="321654987" target="sentiment_321654987"/>
+<edge source="654987321" target="sentiment_654987321"/>
+<edge source="987321654" target="sentiment_987321654"/>
+<edge source="159753852" target="sentiment_159753852"/>
+<edge source="852963741" target="sentiment_852963741"/>
+<edge source="369852147" target="sentiment_369852147"/>
+</graph></graphml>

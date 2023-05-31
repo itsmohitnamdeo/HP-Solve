@@ -1,0 +1,65 @@
+Knowledge Graph Query Results:
+
+1. Sentiments with Positive Score:
+- Sentiment ID: sentiment_123456789
+  - Sentiment: positive
+  - Sentiment Score: 1
+  - Post ID: 123456789
+  - Content: Just bought a new HP laptop. Loving the sleek design and fast performance!
+
+2. Sentiments with Negative Score:
+3. Sentiments with Neutral Score:
+- Sentiment ID: sentiment_987654321
+  - Sentiment: neutral
+  - Sentiment Score: 0
+  - Post ID: 987654321
+  - Content: Looking for recommendations on HP printers. Any suggestions?
+
+- Sentiment ID: sentiment_456789123
+  - Sentiment: neutral
+  - Sentiment Score: 0
+  - Post ID: 456789123
+  - Content: Having trouble with my HP printer. It keeps jamming the paper.
+
+- Sentiment ID: sentiment_789123456
+  - Sentiment: neutral
+  - Sentiment Score: 0
+  - Post ID: 789123456
+  - Content: Just reviewed the latest HP printer model. It's packed with great features!
+
+- Sentiment ID: sentiment_321654987
+  - Sentiment: neutral
+  - Sentiment Score: 0
+  - Post ID: 321654987
+  - Content: Can't get enough of my new HP printer. Prints photos with amazing quality!
+
+- Sentiment ID: sentiment_654987321
+  - Sentiment: neutral
+  - Sentiment Score: 0
+  - Post ID: 654987321
+  - Content: Need help troubleshooting my HP printer. It's not connecting to my computer.
+
+- Sentiment ID: sentiment_987321654
+  - Sentiment: neutral
+  - Sentiment Score: 0
+  - Post ID: 987321654
+  - Content: Here are some useful tips to maintain your HP printer for optimal performance.
+
+- Sentiment ID: sentiment_159753852
+  - Sentiment: neutral
+  - Sentiment Score: 0
+  - Post ID: 159753852
+  - Content: My HP printer broke down again! So tired of dealing with these issues.
+
+- Sentiment ID: sentiment_852963741
+  - Sentiment: neutral
+  - Sentiment Score: 0
+  - Post ID: 852963741
+  - Content: Just bought an HP printer for my home office. Excited to start using it!
+
+- Sentiment ID: sentiment_369852147
+  - Sentiment: neutral
+  - Sentiment Score: 0
+  - Post ID: 369852147
+  - Content: Does anyone know where I can find compatible ink cartridges for my HP printer?
+

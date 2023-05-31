@@ -1,0 +1,72 @@
+[
+    {
+        "post_id": "123456789",
+        "username": "john_doe",
+        "content": "Just bought a new HP laptop. Loving the sleek design and fast performance!",
+        "timestamp": "2023-05-30T10:25:00Z",
+        "sentiment": "neutral"
+    },
+    {
+        "post_id": "987654321",
+        "username": "jane_smith",
+        "content": "Looking for recommendations on HP printers. Any suggestions?",
+        "timestamp": "2023-05-30T12:45:00Z",
+        "sentiment": "neutral"
+    },
+    {
+        "post_id": "456789123",
+        "username": "user123",
+        "content": "Having trouble with my HP printer. It keeps jamming the paper.",
+        "timestamp": "2023-05-30T15:10:00Z",
+        "sentiment": "neutral"
+    },
+    {
+        "post_id": "789123456",
+        "username": "tech_guru",
+        "content": "Just reviewed the latest HP printer model. It's packed with great features!",
+        "timestamp": "2023-05-30T17:35:00Z",
+        "sentiment": "positive"
+    },
+    {
+        "post_id": "321654987",
+        "username": "printerlover",
+        "content": "Can't get enough of my new HP printer. Prints photos with amazing quality!",
+        "timestamp": "2023-05-30T19:50:00Z",
+        "sentiment": "neutral"
+    },
+    {
+        "post_id": "654987321",
+        "username": "sarah_walker",
+        "content": "Need help troubleshooting my HP printer. It's not connecting to my computer.",
+        "timestamp": "2023-05-30T21:15:00Z",
+        "sentiment": "neutral"
+    },
+    {
+        "post_id": "987321654",
+        "username": "techsupport123",
+        "content": "Here are some useful tips to maintain your HP printer for optimal performance.",
+        "timestamp": "2023-05-30T23:30:00Z",
+        "sentiment": "neutral"
+    },
+    {
+        "post_id": "159753852",
+        "username": "printerhater",
+        "content": "My HP printer broke down again! So tired of dealing with these issues.",
+        "timestamp": "2023-05-31T09:20:00Z",
+        "sentiment": "neutral"
+    },
+    {
+        "post_id": "852963741",
+        "username": "printingenthusiast",
+        "content": "Just bought an HP printer for my home office. Excited to start using it!",
+        "timestamp": "2023-05-31T11:40:00Z",
+        "sentiment": "neutral"
+    },
+    {
+        "post_id": "369852147",
+        "username": "user567",
+        "content": "Does anyone know where I can find compatible ink cartridges for my HP printer?",
+        "timestamp": "2023-05-31T14:05:00Z",
+        "sentiment": "neutral"
+    }
+]
